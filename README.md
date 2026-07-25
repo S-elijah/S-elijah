@@ -14,7 +14,7 @@ A software Engineering student at Victoria University Kampala | Systems, Network
 🤔 &nbsp;I'm looking for help with **System designs and API keys**  
 💬 &nbsp;Ask me about **Python &amp; JS**  
 😄 &nbsp;Pronouns: **He/Him**  
-⚡ &nbsp;Fun fact: **I am a poet and a chess player**
+⚡ &nbsp;Fun fact: **I am a  poet and a chess player**
 
 ### 🛠️ Tech Stack
 
