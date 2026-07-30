@@ -12,9 +12,9 @@
 
 ### 🚀 About Me
 * 🌱 I'm currently pursuing a **BSc in Software Engineering** at Victoria University Kampala.
-* 💻 Passionate about building secure, scalable applications across the entire stack, with a specialized focus on **Defence Tech** and **Legal Tech** solutions.
+* 💻 Passionate about building secure, scalable applications across the entire stack, with a specialised focus on **Defence Tech** and **Legal Tech** solutions.
 * 📚 Currently expanding my core engineering foundation by studying **C++** and **DBMS (Database Management Systems)**.
-* 🐧 Operating in a **Linux Mint XFCE** environment powered by tools like VSCodium and PyCharm.
+* 🐧 Operating in a **Linux Mint XFCE** environment powered by tool, VSCodium.
 * ✍️ Outside of coding, I enjoy creative writing, composing poetry, and sharing technical insights through publications like *The Global Lad's Lens*.
 
 ---
@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp" alt="Languages icons" />
 * **Currently Learning & Using:** C++, DBMS, SQL, Bash, Terraform
 * **Environments & OS:** 
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,pycharm" alt="Tools icons" />
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode," alt="Tools icons" />
 * **Focus Areas:** Full Stack Development, Defence Tech, Legal Tech, Relational Database Architecture, Systems Security
 
 ---
