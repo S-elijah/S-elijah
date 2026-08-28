@@ -1,48 +1,55 @@
-<h1 align="center">Hi, I'm Elijah Senabulya 👋</h1>
-<h3 align="center">Legal Tech Software Engineer | Building Secure Legal Tech </h3>
+# Hi, I'm Elijah Senabulya 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&background=0A1F44&center=true&vCenter=true&width=600&lines=Secure+Legal+Infrastructure;Python+for+Lawyers;Cybersecurity+%2B+Compliance;Legal+Tech+Uganda" alt="Typing SVG" />
-</p>
+### Software Engineer | Building Secure Legal and Business  Tech in Uganda
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&background=0A1F44&center=true&vCenter=true&width=600&lines=Secure+Legal+Infrastructure;Python+for+Lawyers;Cybersecurity+%2B+Compliance;Legal+Tech+Uganda)](https://git.io/typing-svg)
 
 ---
 
 ### ⚖️ About Me
-I build **secure, practical legal technology** for Uganda's legal sector.  
+
+I build **secure, practical legal and business technology** for Uganda's legal and business sectors.
 My focus: bridging law + code to make legal work faster, safer, and more accessible.
 
-- 🔭 Currently building: **Legal Tech Uganda** - tools for lawyers, courts, and law firms
+- 🔭 Currently building: **Legal Tech Uganda** — tools for lawyers, courts, and law firms
+- 🏢 Founder of **[Nigel Tech Solutions](https://elijah-senabulya.vercel.app)** — websites, custom software, and legal tech for clients
 - 🌱 Learning: **Cybersecurity, Document Automation, E-Signatures**
-- 💼 Role: Legal Tech Software Engineer
-- 📬 Reach me: senabulyaelijahk@gmail.com | [LinkedIn](your-link) | Newsletter: `Legal Tech Uganda`
+- ♟️ Off the clock: chess, philosophy, and writing (poet, published on Amazon KDP)
+- 📬 Reach me: [senabulyaelijahk@gmail.com](mailto:senabulyaelijahk@gmail.com) · [LinkedIn](https://www.linkedin.com/in/elijah-senabulya-72ba35324) · [X](https://x.com/KSenabulyaE) · [TikTok](https://www.tiktok.com/@elijah.legaltech)
+
+---
+
+### 🌐 Portfolio
+
+**[portfolio-site-alpha-pearl.vercel.app](https://portfolio-site-alpha-pearl.vercel.app/)** — full write-up of my projects, stack, and client work.
 
 ---
 
 ### 🛠️ Tech Stack
-**Languages**: `Python` `JavaScript` `SQL` `Java` `HTML&CSS` 
-**Frameworks**: `Django` `Flask` `React`  
-**Security**: `Data Encryption` `Data Protection Act 2019 UG` `Secure APIs`  
+
+**Languages**: `Python` `JavaScript` `SQL`  `HTML & CSS`
+**Frameworks**: `Django` `Flask` `React`
+**Security**: `Data Encryption` `Data Protection Act 2019 (UG)` `Secure APIs`
 **Tools**: `Docker` `Git` `Linux Mint` `PostgreSQL`
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-elijah&theme=dark&bg_color=0A1F44&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-elijah&theme=dark&bg_color=0A1F44&title_color=FFD700&text_color=FFFFFF&layout=compact" alt="langs" />
-</p>
+
+[![stats](https://github-readme-stats.vercel.app/api?username=S-elijah&theme=dark&bg_color=0A1F44&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)](https://github.com/S-elijah)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-elijah&theme=dark&bg_color=0A1F44&title_color=FFD700&text_color=FFFFFF&layout=compact)](https://github.com/S-elijah)
 
 ---
 
 ### 📝 Legal Tech Content
+
 I write about building legal tech in Africa:
+
 - [LinkedIn Newsletter: Legal Tech Uganda](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7414961441046413312)
-- TikTok: `@elijah.legaltech` - 30s Legal Tech Explained
+- TikTok: [@elijah.legaltech](https://www.tiktok.com/@elijah.legaltech) — 30s Legal Tech Explained
 
 ---
 
-<p align="center">
-  <i>"Building trusted technology for the rule of law."</i>
-</p>
+*"Building the case for trusted legal technology."*
 
-<img src="https://komarev.com/ghpvc/?username=S-elijah&color=FFD700" alt="profile views" />
+![profile views](https://komarev.com/ghpvc/?username=S-elijah&color=FFD700)
