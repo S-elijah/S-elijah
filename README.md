@@ -1,4 +1,4 @@
-# Hi, I'm Elijah Senabulya 👋
+# Hi, I'm Elijah Senabulya 
 
 ### Software Engineer | Building Secure Legal and Business  Tech in Uganda
 
@@ -6,26 +6,26 @@
 
 ---
 
-### ⚖️ About Me
+### About Me
 
 I build **secure, practical legal and business technology** for Uganda's legal and business sectors.
 My focus: bridging law + code to make legal work faster, safer, and more accessible.
 
-- 🔭 Currently building: **Legal Tech Uganda** — tools for lawyers, courts, and law firms
-- 🏢 Founder of **[Nigel Tech Solutions](https://elijah-senabulya.vercel.app)** — websites, custom software, and legal tech for clients
-- 🌱 Learning: **Cybersecurity, Document Automation, E-Signatures**
-- ♟️ Off the clock: chess, philosophy, and writing (poet, published on Amazon KDP)
-- 📬 Reach me: [senabulyaelijahk@gmail.com](mailto:senabulyaelijahk@gmail.com) · [LinkedIn](https://www.linkedin.com/in/elijah-senabulya-72ba35324) · [X](https://x.com/KSenabulyaE) · [TikTok](https://www.tiktok.com/@elijah.legaltech)
+-  Currently building: **Legal Tech Uganda** — tools for lawyers, courts, and law firms
+-  Founder of **[Nigel Tech Solutions](https://elijah-senabulya.vercel.app)** — websites, custom software, and legal tech for clients
+-  Learning: **Cybersecurity, Document Automation, E-Signatures**
+-  Off the clock: chess, philosophy, and writing (poet, published on Amazon KDP)
+-  Reach me: [senabulyaelijahk@gmail.com](mailto:senabulyaelijahk@gmail.com) · [LinkedIn](https://www.linkedin.com/in/elijah-senabulya-72ba35324) · [X](https://x.com/KSenabulyaE) · [TikTok](https://www.tiktok.com/@elijah.legaltech)
 
 ---
 
-### 🌐 Portfolio
+###  Portfolio
 
 **[portfolio-site-alpha-pearl.vercel.app](https://portfolio-site-alpha-pearl.vercel.app/)** — full write-up of my projects, stack, and client work.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**: `Python` `JavaScript` `SQL`  `HTML & CSS`
 
@@ -37,14 +37,14 @@ My focus: bridging law + code to make legal work faster, safer, and more accessi
 
 
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 [![stats](https://github-readme-stats.vercel.app/api?username=S-elijah&theme=dark&bg_color=0A1F44&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)](https://github.com/S-elijah)
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-elijah&theme=dark&bg_color=0A1F44&title_color=FFD700&text_color=FFFFFF&layout=compact)](https://github.com/S-elijah)
 
 
 
-### 📝 Legal Tech Content
+###  Legal Tech Content
 
 I write about building legal tech in Africa:
 
