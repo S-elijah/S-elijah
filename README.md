@@ -28,8 +28,11 @@ My focus: bridging law + code to make legal work faster, safer, and more accessi
 ### 🛠️ Tech Stack
 
 **Languages**: `Python` `JavaScript` `SQL`  `HTML & CSS`
-**Frameworks**: `Django` `Flask` `React`
+
+**Frameworks**: `Django` `Flask` `React` 'Flutter'
+
 **Security**: `Data Encryption` `Data Protection Act 2019 (UG)` `Secure APIs`
+
 **Tools**: `Docker` `Git` `Linux Mint` `PostgreSQL`
 
 ---
