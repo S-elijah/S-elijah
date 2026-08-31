@@ -20,7 +20,7 @@ My focus: bridging law + code to make legal work faster, safer, and more accessi
 
 ###  Portfolio
 
-**[portfolio-site-alpha-pearl.vercel.app](https://portfolio-site-alpha-pearl.vercel.app/)** — full write-up of my projects, stack, and client work.
+**[portfolio-site](https://elijah-senabulya-portfolio.vercel.app/)**  full write-up of my projects, stack, and client work.
 
 ---
 
