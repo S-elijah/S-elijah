@@ -29,20 +29,20 @@ My focus: bridging law + code to make legal work faster, safer, and more accessi
 
 **Languages**: `Python` `JavaScript` `SQL`  `HTML & CSS`
 
-**Frameworks**: `Django` `Flask` `React` 'Flutter'
+**Frameworks**: `Django` `Flask` `React` `Flutter`
 
 **Security**: `Data Encryption` `Data Protection Act 2019 (UG)` `Secure APIs`
 
 **Tools**: `Docker` `Git` `Linux Mint` `PostgreSQL`
 
----
+
 
 ### 📊 GitHub Stats
 
 [![stats](https://github-readme-stats.vercel.app/api?username=S-elijah&theme=dark&bg_color=0A1F44&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)](https://github.com/S-elijah)
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-elijah&theme=dark&bg_color=0A1F44&title_color=FFD700&text_color=FFFFFF&layout=compact)](https://github.com/S-elijah)
 
----
+
 
 ### 📝 Legal Tech Content
 
@@ -51,8 +51,8 @@ I write about building legal tech in Africa:
 - [LinkedIn Newsletter: Legal Tech Uganda](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7414961441046413312)
 - TikTok: [@elijah.legaltech](https://www.tiktok.com/@elijah.legaltech) — 30s Legal Tech Explained
 
----
 
-*"Building the case for trusted legal technology."*
+
+*"Building the case for trusted legal and business technology."*
 
 ![profile views](https://komarev.com/ghpvc/?username=S-elijah&color=FFD700)
