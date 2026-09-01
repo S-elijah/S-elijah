@@ -2,7 +2,7 @@
 
 ### Software Engineer | Building Secure Legal and Business Tech in Uganda
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&background=0A1F44&center=true&vCenter=true&width=600&lines=Secure+Legal+Infrastructure;Business+Websites;Digitalising+Business;Systems;Cybersecurity+%2B+Compliance;Legal+Tech+Uganda)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&background=0A1F44&center=true&vCenter=true&width=600&lines=Secure+Legal+Infrastructure;Business+Websites;Blo+Websites;Digitalising+Business;Systems;Cybersecurity+%2B+Compliance;Legal+Tech+Uganda)](https://git.io/typing-svg)
 
 
 ### About Me
