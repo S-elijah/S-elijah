@@ -16,8 +16,8 @@
 - X: @KSenabulyaE 
 - LinkedIn: [https://www.linkedin.com/in/elijah-senabulya-72ba35324]
 - PLU: PC - 18158
--[LinkedIn Newsletter: Legal Tech Uganda](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7414961441046413312)
--TikTok:[@elijah.legaltech](https://www.tiktok.com/@elijah.legaltech) 30s Legal Tech Explained
+- [LinkedIn Newsletter: Legal Tech Uganda](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7414961441046413312)
+- TikTok:[@elijah.legaltech](https://www.tiktok.com/@elijah.legaltech) 30s Legal Tech Explained
 
 ### Business Tech Content
 
