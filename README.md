@@ -1,6 +1,6 @@
 ![Banner](./banner.png)
 
-# Hi, I'm Elijah Senabulya 
+# I'm Elijah Senabulya 
 **Junior Software Engineer | Victoria University Kampala (Y2) | PC - 18158**
 
 > Building mobile & web systems with Python, Flutter, HTML/CSS, UML & DBMS
@@ -13,11 +13,11 @@
 ![MySQL](https://img.shields.io/badge/DBMS-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 📫 Connect
-- X: @KSenabulyaE
+- X: @KSenabulyaE 
 - LinkedIn: [https://www.linkedin.com/in/elijah-senabulya-72ba35324]
 - PLU: PC - 18158
 -[LinkedIn Newsletter: Legal Tech Uganda](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7414961441046413312)
-TikTok: -[@elijah.legaltech](https://www.tiktok.com/@elijah.legaltech) 30s Legal Tech Explained
+-TikTok:[@elijah.legaltech](https://www.tiktok.com/@elijah.legaltech) 30s Legal Tech Explained
 
 ### Business Tech Content
 
