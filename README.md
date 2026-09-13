@@ -12,7 +12,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/DBMS-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 📫 Connect
+###  Connect
 - X: @KSenabulyaE 
 - LinkedIn: [https://www.linkedin.com/in/elijah-senabulya-72ba35324]
 - PLU: PC - 18158
