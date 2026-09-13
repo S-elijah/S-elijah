@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./IMG-20260913-WA3002.jpg)
 
 # I'm Elijah Senabulya 
 **Junior Software Engineer | Victoria University Kampala (Y2) | PC - 18158**
