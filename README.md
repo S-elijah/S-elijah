@@ -13,7 +13,8 @@
 ![MySQL](https://img.shields.io/badge/DBMS-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ###  Connect
-- X: @KSenabulyaE 
+- X: @KSenabulyaE
+- Portfolio: [https://elijah-senabulya-portfolio.vercel.app]
 - LinkedIn: [https://www.linkedin.com/in/elijah-senabulya-72ba35324]
 - PLU: PC - 18158
 - [LinkedIn Newsletter: Legal Tech Uganda](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7414961441046413312)
