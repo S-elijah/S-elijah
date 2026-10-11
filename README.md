@@ -1,4 +1,4 @@
-![Elijah Senabulya | Network & DFIR - Junior Network & Digital Forensics Engineer](./banner.jpg)
+![Elijah Senabulya | Network & DFIR](./banner.jpg)
 
 I'm focused on networking and digital forensics: how data moves across a network, and how to find, preserve and analyse the evidence it leaves behind. I work on Linux and I'm especially interested in how this applies to law and legal systems in Uganda. BSc Software Engineering student at Victoria University Kampala (Year 2). Open to internships and junior roles.
 
