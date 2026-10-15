@@ -36,9 +36,8 @@ I'm a Software Engineering student at **Victoria University Kampala**, working t
 
 ## Let's connect
 
-<!-- Replace each URL with your real link, then delete this comment -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B2150?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/YOUR-HANDLE)
-[![X](https://img.shields.io/badge/X-0B2150?style=for-the-badge&logo=x&logoColor=22D3EE)](https://x.com/YOUR-HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B2150?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://YOUR-PORTFOLIO.vercel.app)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B2150?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/elijah-senabulya-72ba35324)
+[![X](https://img.shields.io/badge/X-0B2150?style=for-the-badge&logo=x&logoColor=22D3EE)](https://x.com/KSenabulyaE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B2150?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://elijah-senabulya-portfolio.vercel.app/) 
 <p align="center"><sub>Built in Kampala, Uganda 🇺🇬</sub></p>
