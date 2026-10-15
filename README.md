@@ -1,32 +1,44 @@
-![Elijah Senabulya | Network & DFIR](./banner.png)
+<p align="center">
+  <img src="./banner.png" alt="Elijah Senabulya, Aspiring Network Software Engineer" width="100%">
+</p>
 
-I'm focused on networking and digital forensics: how data moves across a network, and how to find, preserve and analyse the evidence it leaves behind. I work on Linux and I'm especially interested in how this applies to law and legal systems in Uganda. BSc Software Engineering student at Victoria University Kampala (Year 2). Open to internships and junior roles.
+# Hi, I'm Elijah 👋
 
-> *"Building the case for trusted legal and business technology."*
+I'm a Software Engineering student at **Victoria University Kampala**, working toward a career as a **network software engineer**. I like understanding how things connect: how a request leaves a browser, crosses a network, and lands on a server that answers it.
 
-## 🔎 Focus Areas
+## What I'm about
 
-- **Networking:** designing and simulating networks
-- **Digital forensics (DFIR):** investigating and preserving digital evidence
-- **Legal tech:** connecting forensics and networks to law and evidence handling
+- 🎓 BSc Software Engineering, Victoria University Kampala
+- 🌐 Interested in web infrastructure: how sites and services are built, hosted, and kept running
+- 🐧 I work on Linux day to day
+- 🎯 Goal: network software engineering
 
-## 🛠 Tools & Environment
+## Tech stack
 
-![Linux Mint](https://img.shields.io/badge/Linux_Mint_Xfce-87CF3E?style=flat&logo=linuxmint&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0B2150?style=for-the-badge&logo=python&logoColor=22D3EE)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B2150?style=for-the-badge&logo=javascript&logoColor=22D3EE)
+![Linux](https://img.shields.io/badge/Linux-0B2150?style=for-the-badge&logo=linux&logoColor=22D3EE)
+![VS Code](https://img.shields.io/badge/VS_Code-0B2150?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE)
+![Web Infrastructure](https://img.shields.io/badge/Web_Infrastructure-0B2150?style=for-the-badge&logo=cloudflare&logoColor=22D3EE)
 
-Also: database management (DBMS).
+| Area | What I use |
+| --- | --- |
+| Languages | Python, JavaScript |
+| Environment | Linux, VS Code |
+| Focus | Web infrastructure, networking |
 
-## 📬 Connect
+## GitHub stats
 
-- 🌐 Portfolio: [elijah-senabulya-portfolio.vercel.app](https://elijah-senabulya-portfolio.vercel.app)
-- 💼 LinkedIn: [Elijah Senabulya](https://www.linkedin.com/in/elijah-senabulya-72ba35324)
-- 📰 Newsletter: [Legal Tech Uganda](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7414961441046413312)
-- 🎥 TikTok: [@elijah.legaltech](https://www.tiktok.com/@elijah.legaltech) (30-second Legal Tech explainers)
-- 🐦 X: [@KSenabulyaE](https://x.com/KSenabulyaE) · [@VUKampala](https://x.com/VUKampala) · [@PLUsecretariat](https://x.com/PLUsecretariat)
+<p align="center">
+  <img height="170" alt="Elijah's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=S-elijah&show_icons=true&hide_border=true&bg_color=071634&title_color=22D3EE&text_color=CFE8F7&icon_color=22D3EE" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-elijah&layout=compact&hide_border=true&bg_color=071634&title_color=22D3EE&text_color=CFE8F7" />
+</p>
 
-**PLU Membership:** PC-18158
+## Let's connect
 
-![Profile views](https://komarev.com/ghpvc/?username=S-elijah&color=FFD700)
+<!-- Replace each URL with your real link, then delete this comment -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B2150?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/YOUR-HANDLE)
+[![X](https://img.shields.io/badge/X-0B2150?style=for-the-badge&logo=x&logoColor=22D3EE)](https://x.com/YOUR-HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B2150?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://YOUR-PORTFOLIO.vercel.app)
+
+<p align="center"><sub>Built in Kampala, Uganda 🇺🇬</sub></p>
